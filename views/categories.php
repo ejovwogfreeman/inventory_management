@@ -10,7 +10,7 @@ include('./partials/header.php');
     <div class="row mt-4 rounded pt-3" style="background-color: white;">
         <div class="mb-4 d-flex align-items-center justify-content-between">
             <h1>Categories</h1>
-            <button class="btn btn-primary d-flex align-items-center" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+            <button class="btn btn-primary d-inline-block align-items-center" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
                 <i class=" bi bi-plus me-2"></i>
                 <span>ADD CATEGORY</span>
             </button>
@@ -28,7 +28,7 @@ include('./partials/header.php');
                     </thead>
                     <tbody>
                         <tr>
-                            <td>1</td>
+                            <td style="background-color: rgba(0,0,0,0.05);">1</td>
                             <td>Processor</td>
                             <td>A nice processor with a good processing speed</td>
                             <td class="d-flex align-items-center justify-content-center">
@@ -37,7 +37,7 @@ include('./partials/header.php');
                             </td>
                         </tr>
                         <tr>
-                            <td>2</td>
+                            <td style="background-color: rgba(0,0,0,0.05);">2</td>
                             <td>Motherboard</td>
                             <td>A nice motherboard with a good processing speed</td>
                             <td class="d-flex align-items-center justify-content-center">
@@ -46,7 +46,7 @@ include('./partials/header.php');
                             </td>
                         </tr>
                         <tr>
-                            <td>3</td>
+                            <td style="background-color: rgba(0,0,0,0.05);">3</td>
                             <td>RAM</td>
                             <td>A nice RAM with a good processing speed</td>
                             <td class="d-flex align-items-center justify-content-center">

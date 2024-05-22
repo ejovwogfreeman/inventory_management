@@ -28,7 +28,7 @@ include('./partials/header.php');
                     </thead>
                     <tbody>
                         <tr>
-                            <td>1</td>
+                            <td style="background-color: rgba(0,0,0,0.05);">1</td>
                             <td>Processor</td>
                             <td>A nice processor with a good processing speed</td>
                             <td class="d-flex align-items-center justify-content-center">
@@ -37,7 +37,7 @@ include('./partials/header.php');
                             </td>
                         </tr>
                         <tr>
-                            <td>2</td>
+                            <td style="background-color: rgba(0,0,0,0.05);">2</td>
                             <td>Motherboard</td>
                             <td>A nice motherboard with a good processing speed</td>
                             <td class="d-flex align-items-center justify-content-center">
@@ -46,7 +46,7 @@ include('./partials/header.php');
                             </td>
                         </tr>
                         <tr>
-                            <td>3</td>
+                            <td style="background-color: rgba(0,0,0,0.05);">3</td>
                             <td>RAM</td>
                             <td>A nice RAM with a good processing speed</td>
                             <td class="d-flex align-items-center justify-content-center">

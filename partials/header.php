@@ -267,7 +267,7 @@
                 const bodyContent = document.querySelector('.body-content');
                 const menuIcon = document.querySelector('.menu-icon');
                 const links = document.querySelectorAll('.a');
-                const linkIcons = document.querySelectorAll('i');
+                const linkIcons = document.querySelectorAll('.sidebar i');
                 const sidebarLogo = document.querySelector('.sidebar-logo');
 
                 if (sidebar.classList.contains('sidebar-slide')) {
