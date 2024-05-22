@@ -248,11 +248,11 @@
                         <img src="images/profileimg.svg" alt="" width="50px" class="me-3"><span>Admin</span>
                     </span>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="/inventory_management/profile.php">Profile</a></li>
+                        <li><a class="dropdown-item" href="profile">Profile</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="dropdown-item" href="#">Logout</a></li>
+                        <li><a class="dropdown-item" href="logout">Logout</a></li>
                     </ul>
                 </div>
             </div>
